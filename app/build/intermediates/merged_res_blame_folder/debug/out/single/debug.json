@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_agro.png.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/agro.png"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_dron.png.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/dron.png"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_planeacion.png.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/planeacion.png"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_paisaje.png.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/paisaje.png"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_iconodron.png.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/iconodron.png"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "com.dron.colombia.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_ciudad.png.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/ciudad.png"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dron.colombia.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_urbano.png.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/urbano.png"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dron.colombia.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dron.colombia.app-merged_res-50:/drawable_aerodronecolombia.png.flat",
+        "source": "com.dron.colombia.app-main-52:/drawable/aerodronecolombia.png"
+    }
+]
