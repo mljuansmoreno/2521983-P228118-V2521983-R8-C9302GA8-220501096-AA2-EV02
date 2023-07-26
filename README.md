@@ -1,6 +1,8 @@
 # Aerodrone Colombia - App educativa de drones con Jetpack Compose
 
 
+![Aerodrone](aerodrone.gif)
+
 
 Bienvenido a la aplicación educativa Aerodrone Colombia, desarrollada con Jetpack Compose. Esta aplicación fue creada como parte de la evidencia GA8-220501096-AA2-EV02 del programa de formación en Análisis y Desarrollo de Sistemas de Información (ADSO) del SENA.
 
