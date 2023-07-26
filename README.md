@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="aerodrone.gif" alt="Aerodrone GIF"/>
+              <img src="aerodrone.gif" alt="Aerodrone GIF"/>
 </p>
 
 
